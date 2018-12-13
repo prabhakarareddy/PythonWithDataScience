@@ -1,0 +1,7 @@
+OverView
+
+pyodbc is a library for access any database connections.
+
+pip install pyodbc
+
+Run above command on windows dos promt or Unix shell.
